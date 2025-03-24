@@ -5,6 +5,7 @@
 .container {
     display: flex;
     width: 100%;
+    flex-direction: column;
 }
 
 .header {
@@ -24,4 +25,5 @@
 
 .main {
     display: flex;
+    border: 1px solid black;
 }
