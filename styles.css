@@ -17,4 +17,5 @@
 .nav-bar ul {
     display: flex;
     flex-direction: row;
+    gap: 16px;
 }
