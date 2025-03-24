@@ -14,8 +14,9 @@
     justify-content: space-evenly;
 }
 
-.nav-bar ul {
+.nav-bar ul, li, a {
     display: flex;
     flex-direction: row;
     gap: 16px;
+    text-decoration: none;
 }
