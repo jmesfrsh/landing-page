@@ -34,8 +34,9 @@ img {
 }
 
 .main-1 {
+    border: 1px solid black;
     display: flex;
-    padding: 64px;
+    margin: 64px;
     gap: 16px;
     align-items: center;
 }
