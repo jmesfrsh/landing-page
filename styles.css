@@ -39,3 +39,11 @@ img {
     gap: 16px;
     align-items: center;
 }
+
+.main-1-left {
+    border: 1px solid black;
+}
+
+.main-1-right {
+    border: 1px solid black;
+}
