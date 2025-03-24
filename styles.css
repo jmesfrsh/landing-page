@@ -44,10 +44,7 @@ img {
     border: 1px solid black;
 }
 
-.main-1-right {
+.main-1-right img {
     border: 1px solid black;
-    min-width: 400px;
-    min-height: 250px;
-    max-width: 400px;
-    max-height: 250px ;
+    display: flex;
 }
