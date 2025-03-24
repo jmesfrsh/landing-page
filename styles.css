@@ -11,3 +11,8 @@
     display: flex;
     border: 1px solid black; 
 }
+
+.nav-bar ul {
+    display: flex;
+    flex-direction: row;
+}
