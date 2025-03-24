@@ -12,6 +12,7 @@
     border: 1px solid black;
     flex-grow: 1;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .nav-bar ul, li, a {
