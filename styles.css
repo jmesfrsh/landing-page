@@ -46,6 +46,10 @@ img {
     flex-direction: column;
 }
 
+.main-1-left button {
+    align-self: flex-start;
+}
+
 .main-1-right img {
     border: 1px solid black;
     display: flex;
