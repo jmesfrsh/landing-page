@@ -37,4 +37,5 @@ img {
     display: flex;
     padding: 64px;
     gap: 16px;
+    align-items: center;
 }
