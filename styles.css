@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    width: 100%;
-}
-
 .container {
     display: flex;
 }
@@ -13,6 +9,7 @@ body {
 .header {
     display: flex;
     border: 1px solid black;
+    width: 100%;
 }
 
 .nav-bar {
