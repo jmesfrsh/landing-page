@@ -15,7 +15,6 @@ img {
 
 .header {
     display: flex;
-    border: 1px solid black;
     flex-grow: 1;
     justify-content: space-around;
     align-items: center;
@@ -51,7 +50,7 @@ img {
     align-self: flex-start;
 }
 
-.main-1-right img {
+.main-1-right {
     border: 1px solid black;
     display: flex;
 }
