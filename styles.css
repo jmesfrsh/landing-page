@@ -46,4 +46,8 @@ img {
 
 .main-1-right {
     border: 1px solid black;
+    min-width: 400px;
+    min-height: 250px;
+    max-width: 400px;
+    max-height: 250px ;
 }
