@@ -52,7 +52,7 @@ img {
     display: flex;
     border: 1px solid black;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-grow: 1;
     padding: 60px;
     flex-wrap: wrap;
