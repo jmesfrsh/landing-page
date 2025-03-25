@@ -48,7 +48,7 @@ img {
     align-items: center;
 }
 
-.main-1 {
+.main-1 { /* Look at spacing */
     display: flex;
     border: 1px solid black;
     align-items: center;
@@ -68,6 +68,9 @@ img {
 .main-1-left p {
     font-size: 18px;
     color: #f9faf8;
+}
+.main-1-left button {
+    background-color: #3882f6;
 }
 
 .main-1-left {
