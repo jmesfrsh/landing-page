@@ -41,6 +41,10 @@ img {
     align-items: center;
 }
 
+.main-1-left {
+    border: 1px solid black;
+}
+
 .main-1-right img {
     max-width: 400px;
 }
