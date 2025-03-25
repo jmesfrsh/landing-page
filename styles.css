@@ -38,6 +38,7 @@ img {
     margin: 64px;
     gap: 16px;
     align-items: center;
+    max-width: 600px
 }
 
 .main-1-left {
