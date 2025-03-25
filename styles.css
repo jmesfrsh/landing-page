@@ -37,3 +37,7 @@ img {
 .main-1-left, .main-1-right {
     flex: 1;
 }
+
+.main-1-right img {
+    max-width: 400px;
+}
