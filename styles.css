@@ -52,11 +52,10 @@ img {
     display: flex;
     border: 1px solid black;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     flex-grow: 1;
     padding: 60px;
     flex-wrap: wrap;
-    width: 
 }
 
 .main-1-left h1 {
