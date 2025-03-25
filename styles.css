@@ -27,6 +27,10 @@ img {
     text-decoration: none;
 }
 
+.main {
+    display: flex;
+}
+
 .main-1 {
     display: flex;
     border: 1px solid black;
