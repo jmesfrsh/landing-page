@@ -54,6 +54,11 @@ img {
     font-weight: 900;
 }
 
+.main-1-left p {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
 .main-1-left {
     border: 1px solid black;
     max-width: 400px;
