@@ -31,5 +31,9 @@ img {
     display: flex;
     border: 1px solid black;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+}
+
+.main-1-left, .main-1-right {
+    flex: 1;
 }
