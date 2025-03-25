@@ -36,9 +36,8 @@ img {
     border: 1px solid black;
     display: flex;
     margin: 64px;
-    gap: 16px;
     align-items: center;
-    max-width: 600px
+    max-width: 600px;
 }
 
 .main-1-left {
