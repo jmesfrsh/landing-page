@@ -30,3 +30,7 @@ img {
 .main-1 {
     display: flex;
 }
+
+.main-1-left, .main-1-right {
+    flex: 1;
+}
