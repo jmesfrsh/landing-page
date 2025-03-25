@@ -27,3 +27,6 @@ img {
     text-decoration: none;
 }
 
+.main-1 {
+    display: flex;
+}
