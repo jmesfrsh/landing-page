@@ -22,6 +22,10 @@ img {
     border: 1px solid black;
 }
 
+.header, .main-1 {
+    background-color: #1f2937;
+}
+
 .nav-bar ul, li, a {
     display: flex;
     flex-direction: row;
