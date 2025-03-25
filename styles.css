@@ -39,10 +39,15 @@ img {
     display: flex;
     border: 1px solid black;
     align-items: center;
+    /* justify-content: center; */
+    /* width: 100%; */
 }
 
 .main-1-left {
     border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
 }
 
 .main-1-right img {
