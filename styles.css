@@ -27,32 +27,3 @@ img {
     text-decoration: none;
 }
 
-.main {
-    display: flex;
-    border: 1px solid black;
-}
-
-.main-1 {
-    border: 1px solid black;
-    display: flex;
-    margin: 64px;
-    align-items: center;
-    max-width: 600px;
-}
-
-.main-1-left {
-    border: 1px solid black;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-}
-
-.main-1-left button {
-    align-self: flex-start;
-}
-
-.main-1-right {
-    border: 1px solid black;
-    display: flex;
-    flex: 1;
-}
