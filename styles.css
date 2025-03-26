@@ -43,8 +43,6 @@ img {
     font-size: 18px;
 }
 
-
-
 .main-1 {
     display: flex;
     align-items: center;
@@ -52,7 +50,6 @@ img {
     flex-grow: 1;
     padding: 60px;
     flex-wrap: wrap;
-    width: 100%;
 }
 
 .main-1-left h1 {
