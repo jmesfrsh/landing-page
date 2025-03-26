@@ -10,7 +10,7 @@ img {
     height: auto;
 }
 
-.container {
+.container { /* Space containers evenly using flex grow */
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -133,6 +133,7 @@ img {
     flex-direction: column;
     border: black 1px solid;
     max-width: 350px;
+    padding: 60px 0;;
 }
 
 .quote blockquote {
