@@ -107,7 +107,6 @@ img {
 
 
 .box-text {
-    border: 1px black solid;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -115,6 +114,6 @@ img {
 }
 
 .box-text p {
-    border: 1px black solid;
     text-align: center;
+    padding-top: 3px;
 }
