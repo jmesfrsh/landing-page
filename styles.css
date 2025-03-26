@@ -17,7 +17,7 @@ img {
     width: 100%;
 }
 
-.header {
+.header { /* Align logo and links */
     border: solid black 10px;
     display: flex;
     flex-grow: 1;
@@ -79,4 +79,8 @@ img {
 
 .main-1-right img {
     max-width: 400px;
+}
+
+.main-2 {
+    display: flex;
 }
