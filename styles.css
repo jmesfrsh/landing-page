@@ -147,4 +147,5 @@ img {
 cite {
     align-self: flex-end;
     font-weight: bold;
+    padding-right: 24px;
 }
