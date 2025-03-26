@@ -155,4 +155,9 @@ cite {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #3882f6;
+}
+
+.cta-button {
+    padding: 5px 15px;
 }
