@@ -122,4 +122,6 @@ img {
     border: black 1px solid;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
