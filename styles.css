@@ -153,7 +153,6 @@ cite {
 .cta-border {
     margin: 60px 90px;
     padding: 20px 40px; /* Remove Later */
-    border: black 1px solid;
     display: flex;
     align-items: center;
     justify-content: space-around;
