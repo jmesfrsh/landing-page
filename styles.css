@@ -121,7 +121,6 @@ img {
 }
 
 .main-3 {
-    border: black 1px solid;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -132,7 +131,6 @@ img {
 .quote {
     display: flex;
     flex-direction: column;
-    border: black 1px solid;
     max-width: 350px;
     padding: 60px 0;;
 }
