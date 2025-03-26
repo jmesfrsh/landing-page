@@ -104,6 +104,12 @@ img {
     width: 150px;
 }
 
-.main-2 p {
-    
+
+
+.box-text {
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 150px;
 }
