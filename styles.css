@@ -62,6 +62,7 @@ img {
     font-size: 18px;
     color: #f9faf8;
     margin: 10px 0;
+    font-weight: 100;
 }
 .main-1-left button {
     background-color: #3882f6;
@@ -139,7 +140,7 @@ img {
 .quote blockquote {
     font-size: 36px;
     font-style: italic;
-    font-weight: light;
+    font-weight: 300;
     color: #1f2937;
 }
 
