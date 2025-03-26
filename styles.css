@@ -126,6 +126,11 @@ img {
     align-items: center;
 }
 
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+
 cite {
     align-self: flex-end;
 }
