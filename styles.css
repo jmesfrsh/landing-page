@@ -89,6 +89,8 @@ img {
 .main-2 h2 {
     align-self: center;
     padding: 50px;
+    font: 36px #1f2937;
+    font-weight: 900;
 }
 
 .box-container {
