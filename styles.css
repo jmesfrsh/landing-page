@@ -91,6 +91,10 @@ img {
     padding: 30px;
 }
 
+.box-container {
+    display: flex;
+}
+
 .box {
     border: #3882f6 1px solid;
     height: 10px;
