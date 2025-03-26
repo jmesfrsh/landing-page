@@ -148,8 +148,8 @@ cite {
     padding-right: 16px;
 }
 
-.main-4 {
-    padding: 40px;
+.cta {
+    padding: 40px; /* Remove Later */
     border: black 1px solid;
     display: flex;
 }
