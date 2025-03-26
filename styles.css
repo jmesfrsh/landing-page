@@ -156,3 +156,8 @@ cite {
     align-items: center;
     justify-content: space-around;
 }
+
+.align-cta {
+    border: black 1px solid;
+    
+}
