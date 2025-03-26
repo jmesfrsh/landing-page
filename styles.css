@@ -83,11 +83,12 @@ img {
 .main-2 {
     display: flex;
     flex-direction: column;
+    padding: 60px;
 }
 
 .main-2 h2 {
     align-self: center;
-    padding: 50px;
+    padding-bottom: 50px;
     font: 36px #1f2937;
     font-weight: 900;
 }
@@ -129,6 +130,7 @@ img {
 .quote {
     display: flex;
     flex-direction: column;
+    border: black 1px solid;
 }
 
 cite {
