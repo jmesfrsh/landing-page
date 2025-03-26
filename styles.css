@@ -21,9 +21,10 @@ img {
     border: solid black 10px;
     display: flex;
     flex-grow: 1;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     padding: 10px;
+    gap: 300px;
 }
 
 .header-logo {
