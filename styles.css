@@ -150,14 +150,19 @@ cite {
     padding-right: 16px;
 }
 
+.main-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .cta-border {
     margin: 60px 90px;
     padding: 20px 40px; /* Remove Later */
     display: flex;
-    align-items: center;
-    justify-content: space-around;
     background-color: #3882f6;
-    flex-shrink: 0;
+    flex-shrink: 1;
+    gap: 128px;
 }
 
 .cta-text {
