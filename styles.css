@@ -149,5 +149,7 @@ cite {
 }
 
 .main-4 {
+    padding: 40px;
     border: black 1px solid;
+    display: flex;
 }
