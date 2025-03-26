@@ -149,6 +149,7 @@ cite {
 }
 
 .cta {
+    margin:40px;
     padding: 40px; /* Remove Later */
     border: black 1px solid;
     display: flex;
