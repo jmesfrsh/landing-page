@@ -159,6 +159,14 @@ cite {
     background-color: #3882f6;
 }
 
+.cta-text {
+    color: white;
+}
+
+.cta-text p {
+    font-weight: 200;
+}
+
 .cta-button {
     padding: 5px 15px;
     background-color: #3882f6;
