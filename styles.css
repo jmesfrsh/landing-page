@@ -17,7 +17,7 @@ img {
     width: 100%;
 }
 
-.header { /* Align logo and links */
+.header { /* Align logo and links maybe with padding either side of the header and main 1 */
     border: solid black 10px;
     display: flex;
     flex-grow: 1;
