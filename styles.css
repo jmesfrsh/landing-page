@@ -153,4 +153,6 @@ cite {
     padding: 40px; /* Remove Later */
     border: black 1px solid;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
