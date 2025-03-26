@@ -117,3 +117,9 @@ img {
     text-align: center;
     padding-top: 3px;
 }
+
+.main-3 {
+    border: black 1px solid;
+    display: flex;
+    flex-direction: column;
+}
