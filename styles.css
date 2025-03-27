@@ -10,7 +10,7 @@ img {
     height: auto;
 }
 
-.container { /* Space containers evenly using flex grow */
+.container { 
     display: flex;
     flex-direction: column;
 }
