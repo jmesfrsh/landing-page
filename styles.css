@@ -19,6 +19,7 @@ img {
 
 .header {
     display: flex;
+    flex: 0 1 60px;
 }
 
 .header-content {
