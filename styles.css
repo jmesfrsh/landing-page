@@ -12,9 +12,7 @@ img {
 
 .container { /* Space containers evenly using flex grow */
     display: flex;
-    flex: 1;
     flex-direction: column;
-    width: 100%;
 }
 
 .header {
