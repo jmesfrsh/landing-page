@@ -187,3 +187,7 @@ cite {
     color: #f9faf8;
     background-color: #1f2937;
 }
+
+.footer p {
+    padding: 30px;
+}
