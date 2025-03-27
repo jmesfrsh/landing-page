@@ -71,6 +71,7 @@ img {
     background-color: #3882f6;
     padding: 5px 15px;
     border: 1px solid black;
+    border-radius: 10px;
 }
 
 .main-1-left {
@@ -109,6 +110,7 @@ img {
     border: #3882f6 3px solid;
     height: 150px;
     width: 150px;
+    border-radius: 20px;
 }
 
 
@@ -166,6 +168,7 @@ cite {
     background-color: #3882f6;
     flex-shrink: 1;
     gap: 112px;
+    border-radius: 10px;
 }
 
 .cta-text {
@@ -180,6 +183,7 @@ cite {
     padding: 5px 15px;
     background-color: #3882f6;
     border: 1px solid white;
+    border-radius: 10px;
 }
 
 .footer {
