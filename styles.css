@@ -49,6 +49,9 @@ img {
     align-items: center;
     justify-content: center;
     flex-grow: 1;
+}
+
+.main-1-left, .main-1-right {
     padding: 60px;
 }
 
