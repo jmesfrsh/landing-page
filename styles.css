@@ -201,6 +201,8 @@ cite {
     text-align: center;
     color: #f9faf8;
     background-color: #1f2937;
+    flex: 0 1 60px;
+    
 }
 
 .footer p {
