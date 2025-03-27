@@ -85,12 +85,11 @@ img {
 .main-2 {
     display: flex;
     flex-direction: column;
-    padding: 60px;
 }
 
 .main-2 h2 {
     align-self: center;
-    padding-bottom: 50px;
+    padding: 60px;
     font: 36px #1f2937;
     font-weight: 900;
 }
@@ -100,6 +99,7 @@ img {
     gap: 50px;
     justify-content: center;
     flex-wrap: wrap;
+    padding-bottom: 60px;
 }
 
 .box {
