@@ -10,3 +10,4 @@ By completing this project, I have:
 - Practiced using flex in css.  
 
 ## Reflection
+Came across chalenges when dealing with page spacing using flex grow/shrink. Felt more confident as I progressed on to the next container.
