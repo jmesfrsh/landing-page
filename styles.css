@@ -82,7 +82,7 @@ img {
 }
 
 .main-1-right, .main-1-left {
-    flex-shrink: 0;
+    flex-shrink: 1;
 }
 
 .main-1-right img {
