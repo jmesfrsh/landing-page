@@ -104,6 +104,7 @@ img {
     justify-content: center;
     flex-wrap: wrap;
     padding-bottom: 60px;
+    flex-direction: row-reverse;
 }
 
 .box {
